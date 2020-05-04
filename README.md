@@ -1,5 +1,5 @@
 # SpaceInvaders
-Projekt_gry_4fun
+Projekt gry zrobiony dla zabawy.
 
-Projekt stworzony w Processingu:
+Stworzony w Processingu:
 https://processing.org/download/
